@@ -1,0 +1,9 @@
+NVIDIA H100 GPU uses TSMC 5nm process and is used for AI datacenter workloads.
+
+AMD MI300 accelerator is manufactured using TSMC 5nm and 6nm nodes.
+
+Intel Xeon processors are manufactured using Intel 7 process technology.
+
+Qualcomm Snapdragon processors are fabricated by TSMC and Samsung.
+
+TSMC is the world's largest semiconductor foundry.

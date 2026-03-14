@@ -1,0 +1,2 @@
+Question,Traditional_RAG,Graph_RAG,Traditional_Result_Count,Graph_Result_Count
+Which GPU systems store data on HDD drives produced by Seagate?,Enterprise HDD drives from Seagate and Western Digital are designed for reliability and large scale storage. | Hard Disk Drives store data using magnetic platters and spinning disks. | HDD storage devices are commonly used in cloud storage systems and backup infrastructure.,MI300 -> 5nm -> TSMC | H100 -> 5nm -> TSMC | RTX4090 -> 4nm -> TSMC,3,3
